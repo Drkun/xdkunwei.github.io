@@ -1,17 +1,17 @@
 ---
-title: "2 . New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering, [AAAI'18]"
-permalink: /publication/2017-11-08-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering
-excerpt: '[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17033/16747)'
+title: "2. Lifelong zero-shot learning, [IJCAI'20]"
+permalink: /publication/2020-4-20-New Lifelong zero-shot learning
+excerpt: '[PDF](https://www.ijcai.org/Proceedings/2020/0077.pdf)'
 ---
 
 ---
 # Title
-__New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering__  
+__Lifelong zero-shot learning__  
 
 ---
 # Abstract
 
-The clustering methods have absorbed even-increasing attention in machine learning and computer vision communities in recent years. Exploring manifold information in multi-way graph cut clustering, such as ratio cut clustering, has shown its promising performance. However, traditional multi-way ratio cut clustering method is NP-hard and thus the spectral solution may deviate from the optimal one. In this paper, we propose a new relaxed multi-way graph cut clustering method, where l2,1-norm distance instead of squared distance is utilized to preserve the solution having much more clearer cluster structures. Furthermore, the resulting solution is constrained with normalization to obtain more sparse representation, which can encourage the solution to contain more discrete values with many zeros. For the objective function, it is very difficult to optimize due to minimizing the ratio of two non-smooth items. To address this problem, we transform the objective function into a quadratic problem on the Stiefel manifold (QPSM), and introduce a novel yet efficient iterative algorithm to solve it. Experimental results on several benchmark datasets show that our method significantly outperforms several state-of-the-art clustering approaches.
+Zero-Shot Learning (ZSL) handles the problem that some testing classes never appear in training set. Existing ZSL methods are designed for learning from a fixed training set, which do not have the ability to capture and accumulate the knowledge of multiple training sets, causing them infeasible to many real-world applications. In this paper, we propose a new ZSL setting, named as Lifelong Zero-Shot Learning (LZSL), which aims to accumulate the knowledge during the learning from multiple datasets and recognize unseen classes of all trained datasets. Besides, a novel method is conducted to realize LZSL, which effectively alleviates the Catastrophic Forgetting in the continuous training process. Specifically, considering those datasets containing different semantic embeddings, we utilize Variational Auto-Encoder to obtain unified semantic representations. Then, we leverage selective retraining strategy to preserve the trained weights of previous tasks and avoid negative transfer when fine-tuning the entire model. Finally, knowledge distillation is employed to transfer knowledge from previous training stages to current stage. We also design the LZSL evaluation protocol and the challenging benchmarks. Extensive experiments on these benchmarks indicate that our method tackles LZSL problem effectively, while existing ZSL methods fail.
 
 
 ---
@@ -19,7 +19,7 @@ The clustering methods have absorbed even-increasing attention in machine learni
 
 ---
 # Download
-[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17033/16747)  
+[Paper](https://www.ijcai.org/Proceedings/2020/0077.pdf)  
 
 ---
 
