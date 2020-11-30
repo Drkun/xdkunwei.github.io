@@ -29,7 +29,7 @@ Conference
 ------
 X. Yang, C. Deng, __K Wei__, J. Yan, and W. Liu, Adversarial Learning for Robust Deep Clustering, In Thirty-fourth Conference on Neural Information Processing Systems (__NeurIPS__), 2020. [PDF](https://proceedings.neurips.cc/paper/2020/file/6740526b78c0b230e41ae61d8ca07cf5-Paper.pdf)
 
-__K Wei__, C. Deng, and X. Yang, Lifelong Zero-shot Learning, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2020. [PDF](https://www.ijcai.org/Proceedings/2020/0077.pdf)
+__K Wei__, C. Deng, and X. Yang, Lifelong Zero-shot Learning, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2020. [PDF](https://www.ijcai.org/Proceedings/2020/0077.pdf) [code](https://github.com/Drkun/Lifelong-Zero-Shot-Learning)
 
 __K Wei__, M Yang, H Wang, C Deng, X Liu Adversarial fine-grained composition learning for unseen attribute-object recognition. Proceedings of the IEEE International Conference on Computer Vision (__ICCV__), 2019 [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wei_Adversarial_Fine-Grained_Composition_Learning_for_Unseen_Attribute-Object_Recognition_ICCV_2019_paper.pdf)
 
