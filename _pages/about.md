@@ -29,7 +29,7 @@ Journal
 
 Conference
 ------
- __K Wei__, C. Deng, __K Wei__, X. Yang, and M. Li, Incremental Embedding Learning via Zero-Shot Translation, AAAI Conference on Artificial Intelligence (__AAAI__), 2021.
+ __K Wei__, C. Deng, __K Wei__, X. Yang, and M. Li, Incremental Embedding Learning via Zero-Shot Translation, AAAI Conference on Artificial Intelligence (__AAAI__), 2021. [code](https://github.com/Drkun/ZSTCI)
 
 Y. Gu, C. Deng, __K Wei__, Class-Incremental Instance Segmentation via Multi-Teacher Networks, AAAI Conference on Artificial Intelligence (__AAAI__), 2021.
 
