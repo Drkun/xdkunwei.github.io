@@ -13,6 +13,9 @@ I am currently a third year PhD（Ph.D Graduate Program） Candidate supervised 
 
 News
 ======
+* One papers were accepted to TCYB
+* One papers were accepted to Neurocomputing
+* Feb. 24, 2021, two papers were accepted to AAAI2021 (~27% acceptance rate)
 * Dec. 2, 2020, three papers were accepted to AAAI2021 (~21% acceptance rate)
 * Sep. 26, 2020, one paper was accepted to NeurIPS2020 (~20% acceptance rate)
 * Apr. 20, 2020, one paper was accepted to IJCAI2020 (~12.6% acceptance rate) 
@@ -29,11 +32,23 @@ Journal
 
 Conference
 ------
- __K Wei__, C. Deng,  X. Yang, and M. Li, Incremental Embedding Learning via Zero-Shot Translation, AAAI Conference on Artificial Intelligence (__AAAI__), 2021. [Code](https://github.com/Drkun/ZSTCI)
+ __K Wei__, C. Deng, X. Yang,  D. Tao, Incremental Zero-Shot Learning, IEEE Transactions on Cybernetics, 2021.
 
-Y. Gu, C. Deng, __K Wei__, Class-Incremental Instance Segmentation via Multi-Teacher Networks, AAAI Conference on Artificial Intelligence (__AAAI__), 2021.
 
-X.Li, Z. Xu, C. Deng, __K Wei__, Generalized Zero-Shot Learning via Disentangled Representation, AAAI Conference on Artificial Intelligence (__AAAI__), 2021.
+
+Z. Li, C. Deng, K. Wei, W. Liu, D. Tao, Learning Semantic Priors for Texture-Realistic Sketch-to-Image Synthesis, Neurocomputing, 2021. [PDF] (https://www.sciencedirect.com/science/article/pii/S0925231221012820)
+
+
+X. Yang, C. Deng, Z. Dang, __K Wei__, J. Yan. SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021. [PDF] (https://openaccess.thecvf.com/content/CVPR2021/html/Yang_SelfSAGCN_Self-Supervised_Semantic_Alignment_for_Graph_Convolution_Network_CVPR_2021_paper.html) [Code](https://github.com/xdxuyang/SelfSAGCN)
+
+
+Z. Dang, C. Deng, Xu Yang, __K Wei__, H. Huang, Nearest Neighbor Matching for Deep Clustering, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021. [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.html) [Code](https://github.com/ZhiyuanDang/NNM)
+
+ __K Wei__, C. Deng,  X. Yang, and M. Li, Incremental Embedding Learning via Zero-Shot Translation, AAAI Conference on Artificial Intelligence (__AAAI__), 2021. [PDF](https://arxiv.org/pdf/2012.15497.pdf) [Code](https://github.com/Drkun/ZSTCI)
+
+Y. Gu, C. Deng, __K Wei__, Class-Incremental Instance Segmentation via Multi-Teacher Networks, AAAI Conference on Artificial Intelligence (__AAAI__), 2021.[PDF](https://see.xidian.edu.cn/faculty/chdeng/Welcome%20to%20Cheng%20Deng's%20Homepage_files/Papers/Conference/AAAI2021_Yanan.pdf)
+
+X.Li, Z. Xu, C. Deng, __K Wei__, Generalized Zero-Shot Learning via Disentangled Representation, AAAI Conference on Artificial Intelligence (__AAAI__), 2021. [PDF](https://www.aaai.org/AAAI21Papers/AAAI-1398.LiXu.pdf)
 
 X. Yang, C. Deng, __K Wei__, J. Yan, and W. Liu, Adversarial Learning for Robust Deep Clustering, In Thirty-fourth Conference on Neural Information Processing Systems (__NeurIPS__), 2020. [PDF](https://proceedings.neurips.cc/paper/2020/file/6740526b78c0b230e41ae61d8ca07cf5-Paper.pdf) [Code](https://github.com/xdxuyang/Adversarial-Learning-for-Robust-Deep-Clustering)
 
