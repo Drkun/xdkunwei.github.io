@@ -36,13 +36,13 @@ Conference
 
 
 
-Z. Li, C. Deng, K. Wei, W. Liu, D. Tao, Learning Semantic Priors for Texture-Realistic Sketch-to-Image Synthesis, Neurocomputing, 2021. [PDF] (https://www.sciencedirect.com/science/article/pii/S0925231221012820)
+Z. Li, C. Deng, K. Wei, W. Liu, D. Tao, Learning Semantic Priors for Texture-Realistic Sketch-to-Image Synthesis, Neurocomputing, 2021. [PDF](https://www.sciencedirect.com/science/article/pii/S0925231221012820)
 
 
-X. Yang, C. Deng, Z. Dang, __K Wei__, J. Yan. SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021. [PDF] (https://openaccess.thecvf.com/content/CVPR2021/html/Yang_SelfSAGCN_Self-Supervised_Semantic_Alignment_for_Graph_Convolution_Network_CVPR_2021_paper.html) [Code](https://github.com/xdxuyang/SelfSAGCN)
+X. Yang, C. Deng, Z. Dang, __K Wei__, J. Yan. SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021. [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_SelfSAGCN_Self-Supervised_Semantic_Alignment_for_Graph_Convolution_Network_CVPR_2021_paper.html) [Code](https://github.com/xdxuyang/SelfSAGCN)
 
 
-Z. Dang, C. Deng, Xu Yang, __K Wei__, H. Huang, Nearest Neighbor Matching for Deep Clustering, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021. [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.html) [Code](https://github.com/ZhiyuanDang/NNM)
+Z. Dang, C. Deng, Xu Yang, __K Wei__, H. Huang, Nearest Neighbor Matching for Deep Clustering, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021. [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.html)[Code](https://github.com/ZhiyuanDang/NNM)
 
  __K Wei__, C. Deng,  X. Yang, and M. Li, Incremental Embedding Learning via Zero-Shot Translation, AAAI Conference on Artificial Intelligence (__AAAI__), 2021. [PDF](https://arxiv.org/pdf/2012.15497.pdf) [Code](https://github.com/Drkun/ZSTCI)
 
