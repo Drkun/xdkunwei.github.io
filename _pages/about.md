@@ -28,17 +28,12 @@ Recent Publications
 
 Journal
 ------
+ __K Wei__, C. Deng, X. Yang,  D. Tao, Incremental Zero-Shot Learning, IEEE Transactions on Cybernetics, 2021.
 
+Z. Li, C. Deng,  __K Wei__, W. Liu, D. Tao, Learning Semantic Priors for Texture-Realistic Sketch-to-Image Synthesis, Neurocomputing, 2021. [PDF](https://www.sciencedirect.com/science/article/pii/S0925231221012820)
 
 Conference
 ------
- __K Wei__, C. Deng, X. Yang,  D. Tao, Incremental Zero-Shot Learning, IEEE Transactions on Cybernetics, 2021.
-
-
-
-Z. Li, C. Deng, K. Wei, W. Liu, D. Tao, Learning Semantic Priors for Texture-Realistic Sketch-to-Image Synthesis, Neurocomputing, 2021. [PDF](https://www.sciencedirect.com/science/article/pii/S0925231221012820)
-
-
 X. Yang, C. Deng, Z. Dang, __K Wei__, J. Yan. SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021. [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_SelfSAGCN_Self-Supervised_Semantic_Alignment_for_Graph_Convolution_Network_CVPR_2021_paper.html) [Code](https://github.com/xdxuyang/SelfSAGCN)
 
 
